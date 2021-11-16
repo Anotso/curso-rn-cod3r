@@ -1,0 +1,5 @@
+//MODELO DO .env
+
+module.exports = {
+    authSecret: ''
+}
