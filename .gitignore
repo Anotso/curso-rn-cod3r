@@ -1,2 +1,7 @@
 /tasksBackend/node_modules
+/calculator/node_modules
+/mines/node_modules
+/navegacao/node_modules
+/tasks/node_modules
+
 /tasksBackend/.env

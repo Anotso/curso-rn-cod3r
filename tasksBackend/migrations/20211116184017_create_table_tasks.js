@@ -4,7 +4,7 @@ exports.up = function(knex) {
         table.increments('id').primary()
         table.string('desc').notNull()
         table.date('estimateAt').notNull()
-        table.boolean('doneAt').notNull()
+        table.date('doneAt')
         table.integer('userId').notNull().references('id').inTable('users')
   })
 };

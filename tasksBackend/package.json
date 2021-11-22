@@ -19,7 +19,7 @@
     "jwt-simple": "^0.5.6",
     "knex": "^0.95.14",
     "moment": "^2.29.1",
-    "passport": "^0.5.0",
+    "passport": "0.4.1",
     "passport-jwt": "^4.0.0",
     "pg": "^8.7.1"
   },
